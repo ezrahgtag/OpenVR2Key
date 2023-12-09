@@ -1,4 +1,4 @@
-# OpenVR2Key
+# OpenVR2Key DOES NOT WORK WITH COULUS I LEARNED THAT THE HARD WAY.
 Simulate key presses on your Windows desktop from SteamVR input, download the latest release [here](https://github.com/BOLL7708/OpenVR2Key/releases).
 
 ![Applicatioun window](https://i.imgur.com/Jocd7J9.png)
